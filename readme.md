@@ -3,14 +3,6 @@
 
 这是一个基于区块链的Telegram投注机器人项目，集成了Monad测试网。用户可以通过Telegram创建投注、使用内联键盘选择投注选项，并在Monad测试网上结算结果。
 
----
-
-## 团队信息
-
-* **成员1:** 邮箱: limlamleen@gmail.com
-* **成员2:** 邮箱: fuhaojava@foxmail.com 
----
-
 ## 项目描述
 
 https://github.com/KarlLeen/PolyBetty
